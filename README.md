@@ -24,7 +24,7 @@ Esta biblioteca suporta Python 2.7</br></br>
       Ex: (Entrada: Barionix -http://www.site.com dirs
           Saída: /JuniorMario/Barionix | /img/post/python-rules)
 
-  Barinoix url href - retorna uma lista de conteudo extraido das tags href do site 
+  Barionix url href - retorna uma lista de conteudo extraido das tags href do site 
       Ex: ( Entrada: Barionix http://www.site.com href)
             saida: "/JuniorMario/Barionix" | "https://github.com/JuniorMario/Barionix/edit/master/README.md")
     /*A tag sendo "<a href="/JuniorMario/Barionix"><span>Barionix</span></a>".*/.
